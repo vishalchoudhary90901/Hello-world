@@ -1,5 +1,5 @@
 // Hello world in ACPI Source Language
-
+//hello world there is a method to learn in ACPI Source Language 
 Scope(\) {
 	Method(_WAK) {
 		Store ("Hello World", Debug)
